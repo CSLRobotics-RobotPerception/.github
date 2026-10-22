@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github_avatar_robot_perception_light.png" alt="CSL Robotics Robot Perception Team" width="200">
-</p>
-
 # CSL Robotics Robot Perception Team
 
 안녕하세요! 저희는 CSL Robotics 로봇인지팀(Robot Perception Team)입니다.
